@@ -7,7 +7,7 @@ Para este punto utilice Google Cloud Plattform especificamente los servicios de 
 
 ![GCStorage](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/GCStorage.png)
 
-![GCBigQuery](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/GCStorage.png)
+![GCBigQuery](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/GCBigQuery.png)
 
 
 Completitud en ambos archivos:
