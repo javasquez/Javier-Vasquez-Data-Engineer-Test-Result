@@ -5,6 +5,9 @@
 Para este punto utilice Google Cloud Plattform especificamente los servicios de Google Cloud Storage para cargar los dataset y BigQuery para ejecutar las siguientes consultas SQL sobre los datos y asi poder calcular las metricas solicitadas
 
 
+![GCStorage](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/GCStorage.png)
+
+![GCBigQuery](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/GCStorage.png)
 
 
 Completitud en ambos archivos:
@@ -138,6 +141,10 @@ Para ejecutar esto primero debemos clonar el proyecto a nuestra maquina, despues
 despues debemos ir a la carpeta **docker-airflow** mediante la consola y ejecutar ```docker-composer up```
 
 Una vez esto se haya ejecutado correctamente ejecutado deberiamos poder acceder airflow a http://localhost:8080 y ver y ejecutar la pipeline
+
+![Airflow1](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/Airflow1.png)
+
+![Airflow2](https://github.com/javasquez/testDataEngineerResolve/blob/main/CapturasPantalla/Airflow2.png)
 
 
 
